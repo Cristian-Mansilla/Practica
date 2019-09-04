@@ -2,7 +2,7 @@
 
 ## Hola!
 
-Cree una rama llamada 'testing' para que trabajemos en ella y cuando nos sintamos seguros de nuestro avance la subimos a 'master'. 
+Cree una rama llamada 'testing' para que trabajemos en ella y cuando tengamos algo digno de ser admirado la subimos a 'master'. 
 Te dejo el paso para cambiar de rama con git.
 
     git checkout testing
