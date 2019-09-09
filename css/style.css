@@ -3,6 +3,14 @@ a {
   color: white;
 }
 
+.box-shadow {
+  box-shadow: 5px 5px 5px grey;
+}
+
+.img-height {
+  height: 70vh;
+}
+
 .bg-azulMarino {
   background: rgba(37, 36, 64, 0.6);
 }
