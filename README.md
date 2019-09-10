@@ -1,4 +1,4 @@
-# Proyecto-Integrador
+# Practica
 
 ## Hola!
 
