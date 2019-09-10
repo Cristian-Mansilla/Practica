@@ -6,7 +6,15 @@ body {
 
 a {
   text-decoration: none;
+  color: tomato;
+}
+
+a:hover {
+  text-decoration: none;
   color: white;
+  background: tomato;
+  padding: 5px;
+  border-radius: 10px;
 }
 
 article img {
@@ -39,7 +47,8 @@ article img {
 }
 
 .bg-azulMarino {
-  background: rgba(37, 36, 64, 0.6);
+  /*background: rgba(37, 36, 64, 0.5);*/
+  background: rgba(102, 102, 153, 0.3);
 }
 
 .bg-white {
